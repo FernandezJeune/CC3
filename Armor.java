@@ -2,9 +2,7 @@ package item;
 
 /**
  * It is a special attribute for the characters will gain an additional strength.
- * @author Bermudez, Christopher
- * @author Castano, Tome Teofilo
- * @author Decipeda, Wesley Jay
+ * @author Fernandez, Jeune
  */
 public interface Armor {
     
