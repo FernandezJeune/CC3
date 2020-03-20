@@ -4,9 +4,7 @@ import item.Armor;
 
 /**
  * This Character has 2 powers namely Lightning bolt and Heal. 
- * @author Bermudez, Christopher
- * @author Castano, Tome Teofilo
- * @author Decipeda, Wesley Jay
+ * @author Fernandez, Jeune Vincent D.
  */
 public class Wizard extends Character implements Weapon, Armor {
     
