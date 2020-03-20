@@ -3,9 +3,7 @@ import character.Character;
 
 /**
  * It is a special attribute for the characters which it adds some damage.
- * @author Bermudez, Christopher
- * @author Castano, Tome Teofilo
- * @author Decipeda, Wesley Jay
+ * @author Fernandez, Jeune Vincent D.
  */
 public interface Weapon {
     
