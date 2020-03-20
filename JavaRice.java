@@ -4,9 +4,7 @@ import item.Weapon;
 import item.Armor;
 /**
  * This Character has 2 powers namely Stun and Heal.
- * @author Bermudez, Christopher
- * @author Castano, Tome Teofilo
- * @author Decipeda, Wesley Jay
+ * @author Fernandez, Jeune Vincent D.
  */
 public class JavaRice extends Character implements Weapon, Armor{
     
