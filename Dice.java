@@ -4,9 +4,7 @@ import java.util.Random;
 
 /**
  * This is the blue print of the dice that gives a random number from 1 to 6.
- * @author Bermudez, Christopher
- * @author Castano, Tome Teofilo
- * @author Decipeda, Wesley Jay
+ * @author Fernandez, Jeune Vincent D.
  */
 public class Dice {
     
