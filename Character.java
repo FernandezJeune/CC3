@@ -3,9 +3,7 @@ import item.Dice;
 
 /**
  * This is the main blue print of the Character.
- * @author Bermudez, Christopher
- * @author Castano, Tome Teofilo
- * @author Decipeda, Wesley Jay
+ * @author Fernandez,Jeune Vincent D.
  */
 public abstract class Character {
     
